@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋!
 
 
-**This** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**This** is a ✨ _special_ ✨ repository because its `README.md`- my GitHub profile.
 
 - 🔭 I’m currently working on ... PaddleLogger app -> https://paddlelogger.com/about-us
 - 🌱 I’m currently learning ... SwiftUI
