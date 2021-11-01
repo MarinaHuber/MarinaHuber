@@ -1,7 +1,7 @@
 ### Hi there 👋!
 
 
-**This** is a ✨ _special_ ✨ repository because its ![alt text](https://marinahuber.com)
+**This** is a ✨ _special_ ✨ repository because its [cool and this is my Website](https://marinahuber.com)
 
 - 🔭 I’m currently working on ... PaddleLogger app -> https://paddlelogger.com/about-us
 - 🌱 I’m currently learning ... SwiftUI
