@@ -10,4 +10,4 @@
 - 💬 Ask me about ... iOS
 - 📲 How to reach me: ... +385 95 3955 734
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... I surf and yoga often
+- ⚡ Fun fact: ... offsceen addict
