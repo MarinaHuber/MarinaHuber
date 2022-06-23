@@ -1,4 +1,4 @@
-### Hi there 👋!
+👋
 
 
 [FYI personal website](https://marinahuber.com)
