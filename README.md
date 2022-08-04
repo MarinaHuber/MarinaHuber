@@ -2,7 +2,7 @@
 
 [www](https://marinahuber.com)
 
-- 🔭 I’m currently working on ... PaddleLogger app -> https://paddlelogger.com/about-us
+- 🔭 I’m currently working on ... Essentail Developer course
 - 🌱 I’m currently learning ... Combine
 - 👯 I’m looking to collaborate on ... new iOS projects
 - 🤔 I’m looking for help with ... CoreData
