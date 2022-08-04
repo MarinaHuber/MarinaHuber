@@ -1,7 +1,6 @@
-👋
 
 
-[FYI personal website](https://marinahuber.com)
+[www](https://marinahuber.com)
 
 - 🔭 I’m currently working on ... PaddleLogger app -> https://paddlelogger.com/about-us
 - 🌱 I’m currently learning ... Combine
