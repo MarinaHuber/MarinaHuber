@@ -2,9 +2,9 @@
 
 [www](https://marinahuber.com)
 
-- 🔭 I’m currently working on ... SurfCurve app
-- 🌱 I’m currently learning ... TDD & Documentation
-- 👯 I’m looking to collaborate on ... new iOS projects
-- 🤔 I’m looking for help with ... Algorithms
-- 💬 Ask me about ... iOS
+- 🔭 Working on ... SurfCurve, Fifth app
+- 🌱 Currently learning ... TDD & Documentation
+- 👯 I’m looking to collaborate on ... new Mobile projects
+- 🤔 I’m looking for help with ... App flipping
+- 💬 Ask me about ... iOS and beyond
 
