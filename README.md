@@ -2,7 +2,7 @@
 
 [www](https://marinahuber.com)
 
-- 🔭 Working on ... SurfCurve, Fifth app
+- 🔭 Working on ... Learning LLM, Fifth app
 - 🌱 Currently learning ... React
 - 👯 I’m looking to collaborate on ... new projects
 - 🤔 I’m looking for help with ... App flipping
