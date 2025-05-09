@@ -3,8 +3,8 @@
 [www](https://marinahuber.com)
 
 - 🔭 Working on ... Learning LLM, Fifth app
-- 🌱 Currently learning ... React
+- 🌱 Currently learning ... Prompting effects
 - 👯 I’m looking to collaborate on ... new projects
 - 🤔 I’m looking for help with ... App flipping
-- 💬 Ask me about ... iOS and front end development
+- 💬 Ask me about ... anything
 
